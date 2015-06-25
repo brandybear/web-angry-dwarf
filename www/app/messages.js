@@ -1,7 +1,7 @@
 define(function () {
     return {
         getHello: function () {
-            return 'Hello World';
+            return 'Hello World! Brandy is a Babe!!!';
         }
     };
 });
